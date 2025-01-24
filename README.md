@@ -6,3 +6,9 @@ not there.
 
 Use the template in `code.js`. The tests in `code.test.js` will be run
 automatically every time you push to Github; if they pass you are done.
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
+
+
+I received help from Aidan Newberry where he said the binary search would fail if it didn't find the lowest index of element.
+I received help
